@@ -1,0 +1,6 @@
+# Backend requirements
+flask
+flask-cors
+tensorflow
+pillow
+numpy
